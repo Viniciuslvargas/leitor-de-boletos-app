@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest==9.1.1
+fpdf2==2.8.8
+pyinstaller==6.22.3

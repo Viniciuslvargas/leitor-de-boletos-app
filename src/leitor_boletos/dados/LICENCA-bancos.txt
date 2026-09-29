@@ -1,0 +1,10 @@
+Lista de bancos (bancos.csv)
+
+Fonte: Banco Central do Brasil - Lista de Participantes do STR (dados abertos)
+https://www.bcb.gov.br/content/estabilidadefinanceira/str1/ParticipantesSTR.csv
+Baixada em: 29/09/2026
+Colunas usadas: Numero_Codigo -> codigo; Nome_Extenso -> nome.
+
+Esta base de dados e disponibilizada sob a Open Database License (ODbL) v1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+A base adaptada (bancos.csv) segue sob a mesma licenca. O codigo do programa segue sob a licenca MIT.

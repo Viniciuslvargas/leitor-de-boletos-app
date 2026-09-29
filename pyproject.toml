@@ -1,0 +1,10 @@
+[project]
+name = "leitor-de-boletos"
+version = "1.0.0"
+description = "Le boletos em PDF e monta uma planilha com banco, valor e vencimento."
+requires-python = ">=3.12"
+license = "MIT"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

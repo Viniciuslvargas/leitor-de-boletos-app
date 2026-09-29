@@ -1,0 +1,14 @@
+meus-boletos/
+*.pdf
+!exemplos/*.pdf
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+build/
+dist/
+
+Thumbs.db
+desktop.ini
