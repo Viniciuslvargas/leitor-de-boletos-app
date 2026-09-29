@@ -10,14 +10,19 @@ da máquina.
 
 ## Como usar
 
-1. Baixe o `LeitorDeBoletos-1.0.0.zip` na página de [Releases](../../releases), extraia a pasta
-   e abra o `LeitorDeBoletos.exe` que está dentro dela. Não precisa instalar nada.
-2. Clique em **Escolher PDFs** e selecione um ou vários boletos. Boleto que chegou como texto
+1. Baixe o `LeitorDeBoletos-1.0.0.zip` na página de [Releases](../../releases).
+2. **Extraia o `.zip` antes de abrir:** clique com o botão direito nele e escolha
+   **Extrair tudo**. Depois abra o `LeitorDeBoletos.exe` que está dentro da pasta extraída. Não
+   precisa instalar nada.
+
+   > Se abrir o `.exe` direto de dentro do `.zip`, sem extrair, aparece o erro
+   > *"Failed to load Python DLL"*. É só extrair e abrir de novo.
+3. Clique em **Escolher PDFs** e selecione um ou vários boletos. Boleto que chegou como texto
    (e-mail, WhatsApp): cole a linha digitável no campo e tecle Enter.
-3. Confira a tabela:
+4. Confira a tabela:
    - **amarelo** pede conferência (duplicado, valor em aberto, data incomum...);
    - **vermelho** indica problema e diz o motivo.
-4. Clique em **Exportar Excel** ou **Exportar CSV**.
+5. Clique em **Exportar Excel** ou **Exportar CSV**.
 
 | Início | Com boletos |
 |---|---|
